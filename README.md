@@ -2,6 +2,13 @@
 
 **I make shitty skids of block game cheats**
 
+**Things I made:**
+- [HuzuniPlusTwo](https://github.com/Huzuniplus2)
+- [W+2 CheatBreakerPlus](https://github.com/WarriorCrystal/CheatBreakerPlus-src)
+
+**Things Im working on:**
+- Non W+2 CheatBreakerPlus
+
 <br>
 <details>
   <summary>Github Public Stats :computer:</summary>
