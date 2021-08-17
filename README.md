@@ -1,6 +1,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WarriorCrystal)
 
-**I make shitty skid**
+**I make shitty skids of block game cheats**
 
 <br>
 <details>
