@@ -5,10 +5,11 @@
 - [HuzuniPlusTwo](https://github.com/Huzuniplus/Huzuniplus2)
 - [W+2 CheatBreakerPlus](https://github.com/WarriorCrystal/CheatBreakerPlus-src)
 - Helpt in [FairySoulsESP](https://github.com/iMRCx/Skyblock-Fairy-Souls-ESP-Unbaneable-)
+- Non W+2 CheatBreakerPlus
 
 **Things Im working on:**
-- Non W+2 CheatBreakerPlus
 - A custombase
+- Mamarre5
 
 <br>
 <details>
