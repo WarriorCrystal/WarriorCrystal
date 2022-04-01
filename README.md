@@ -1,7 +1,7 @@
 
 **I make shitty skids of block game cheats**
 
-**Things I made:**
+**Things I've made:**
 - [HuzuniPlusTwo](https://github.com/Huzuniplus/Huzuniplus2)
 - [W+2 CheatBreakerPlus](https://github.com/WarriorCrystal/CheatBreakerPlus-src)
 - Helpt in [FairySoulsESP](https://github.com/iMRCx/Skyblock-Fairy-Souls-ESP-Unbaneable-)
@@ -11,8 +11,8 @@
 - [Mamarre5](https://github.com/WarriorCrystal/Mamarre5)
 - Non W+2 CheatBreakerPlus
 
-**Things Im working on:**
-
+**Things I'm working on:**
+- [WarriorHub (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHub/)
 <br>
 <details>
   <summary>Github Public Stats :computer:</summary>
