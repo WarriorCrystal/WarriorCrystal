@@ -1,5 +1,5 @@
 
-**I make shitty skids of block game cheats**
+**I used to make shitty skids of block game cheats, now i make roblox scripts**
 
 **Things I'm working on:**
 - [WarriorHub v2/rewrite (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHubV2/)
