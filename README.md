@@ -3,6 +3,7 @@
 
 **Things I'm working on:**
 - [WarriorHub v2/rewrite (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHubV2/)
+- [Evo Client (Private rn)](https://github.com/WarriorCrystal/Evo/)
 
 **Things I've made:**
 - [HuzuniPlusTwo](https://github.com/Huzuniplus/Huzuniplus2)
