@@ -16,7 +16,7 @@
 - [Mamarre5](https://github.com/WarriorCrystal/Mamarre5)
 - Non W+2 CheatBreakerPlus
 - [WarriorHub v2/rewrite (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHubV2/)
-- [Evo Client (Private rn)](https://github.com/WarriorCrystal/Evo/)
+- [Evo Client](https://github.com/WarriorCrystal/Evo/)
 
 <br>
 <details>
