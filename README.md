@@ -2,7 +2,7 @@
 **I used to make shitty skids of block game cheats, now i make roblox scripts**
 
 **Things I'm working on:**
-- Nothing rn
+- [Evo Client](https://github.com/WarriorCrystal/Evo/)
 
 **Things I've made:**
 - [WarriorHub (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHub/)
@@ -15,7 +15,6 @@
 - [Mamarre5](https://github.com/WarriorCrystal/Mamarre5)
 - Non W+2 CheatBreakerPlus
 - [WarriorHub v2/rewrite (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHubV2/)
-- [Evo Client](https://github.com/WarriorCrystal/Evo/)
 
 <br>
 <details>
