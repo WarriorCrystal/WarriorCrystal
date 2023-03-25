@@ -2,13 +2,13 @@
 **I used to make shitty skids of block game cheats, now i make roblox scripts**
 
 **Things I'm working on:**
-- [Evo Client](https://github.com/WarriorCrystal/Evo/)
 
 **Things I've made:**
 - [WarriorHub (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHub/)
 - [Elysian Client](https://github.com/WarriorCrystal/Elysian/)
 - [HuzuniPlusTwo](https://github.com/Huzuniplus/Huzuniplus2)
 - [W+2 CheatBreakerPlus](https://github.com/WarriorCrystal/CheatBreakerPlus-src)
+- [Evo Client](https://github.com/WarriorCrystal/Evo/)
 
 **Things probably i´m not going to finish:**
 - A custombase
