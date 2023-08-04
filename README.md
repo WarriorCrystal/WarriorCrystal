@@ -1,5 +1,5 @@
 
-**I used to make shitty skids of block game cheats, now i make roblox scripts**
+**I used to make shitty skids of block game cheats and roblox scripts, now? i'm dead**
 
 **Things I'm working on:**
 - Papu
