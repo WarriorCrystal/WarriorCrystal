@@ -1,7 +1,7 @@
 
 **I used to make shitty skids of block game cheats and roblox scripts, now? i'm dead**
 
-**Things I've made:**
+**Things I've made (that are public):**
 - [WarriorHub (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHub/)
 - [Elysian Client](https://github.com/WarriorCrystal/Elysian/)
 - [HuzuniPlusTwo](https://github.com/Huzuniplus/Huzuniplus2)
