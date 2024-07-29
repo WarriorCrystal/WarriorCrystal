@@ -1,20 +1,12 @@
 
 **I used to make shitty skids of block game cheats and roblox scripts, now? i'm dead**
 
-**Things I'm working on:**
-- Papu
 **Things I've made:**
 - [WarriorHub (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHub/)
 - [Elysian Client](https://github.com/WarriorCrystal/Elysian/)
 - [HuzuniPlusTwo](https://github.com/Huzuniplus/Huzuniplus2)
 - [W+2 CheatBreakerPlus](https://github.com/WarriorCrystal/CheatBreakerPlus-src)
 - [Evo Client](https://github.com/WarriorCrystal/Evo/)
-
-**Things probably i´m not going to finish:**
-- A custombase
-- [Mamarre5](https://github.com/WarriorCrystal/Mamarre5)
-- Non W+2 CheatBreakerPlus
-- [WarriorHub v2/rewrite (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHubV2/)
 
 <br>
 <details>
