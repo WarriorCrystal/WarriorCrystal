@@ -12,7 +12,6 @@ shit, it's been like 4 years now, my carreer's over fr
 <br>
 <details>
 ![Profile Views](https://komarev.com/ghpvc/?username=WarriorCrystal)
-  ----
 </details>
 
 ------
