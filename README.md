@@ -1,5 +1,5 @@
 
-**I used to make shitty skids of block game cheats and roblox scripts, now? i'm dead**
+**I used to make shitty skids of block game cheats and roblox scripts, now? i may be back actually**
 
 **Things I've made (that are public):**
 - [WarriorHub (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHub/)
@@ -12,4 +12,3 @@
 
 ------
 [WarriorCrystal](https://github.com/WarriorCrystal) <br>
-- shit, it's been like 4 years now, my carreer's over fr
