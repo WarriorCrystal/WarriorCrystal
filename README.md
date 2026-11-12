@@ -3,7 +3,7 @@
 
 **Currently Working on:**
 - CheatBreaker3
-
+- [WarriorBlast (Vibecoded Blockblast Clone)](https://github.com/WarriorCrystal/WarriorBlast/)
 **Things I've made (that are public):**
 - [WarriorHub (Roblox ScriptHub)](https://github.com/WarriorCrystal/WarriorHub/)
 - [Elysian Client](https://github.com/WarriorCrystal/Elysian/)
