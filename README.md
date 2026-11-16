@@ -1,5 +1,5 @@
 
-**I used to make shitty skids of block game cheats and roblox scripts, now? i may be back actually**
+**I used to make shitty skids of block game cheats and roblox scripts, now? i'm working on some stuff**
 
 **Currently Working on:**
 - CheatBreaker3
